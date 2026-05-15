@@ -20,7 +20,7 @@
 ---
 
 ## 🌐 Live App
-### 👉 [Click here to open the Streamlit App](https://crop-recommendation-system-acyz8kpnjckjjn4xbhapprk.streamlit.app/)
+### 👉 (https://crop-recommendation-system-acyz8kpnjckjjn4xbhapprk.streamlit.app/)
 
 ---
 
