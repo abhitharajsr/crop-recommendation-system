@@ -65,14 +65,14 @@ apple · banana · blackgram · chickpea · coconut · coffee · cotton · grape
 | Stage | Description | Lead |
 |---|---|---|
 | S1 | Problem definition & literature review | Adithyan |
-| S2 | Data collection & understanding | Abhita |
+| S2 | Data collection & understanding | Abhitha |
 | S3 | Data preprocessing & cleaning | Adithyan |
-| S4 | Exploratory data analysis | Abhita |
+| S4 | Exploratory data analysis | Abhitha |
 | S5 | Feature engineering & selection | Adithyan |
 | S6 | Model building & training | Adithyan |
-| S7 | Model evaluation & comparison | Abhita |
-| S8 | Model interpretation & explainability | Abhita |
-| S9 | Streamlit deployment | Abhita |
+| S7 | Model evaluation & comparison | Abhitha |
+| S8 | Model interpretation & explainability | Abhitha |
+| S9 | Streamlit deployment | Abhitha |
 | S10 | Documentation & presentation | Both |
 
 ---
