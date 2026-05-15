@@ -15,7 +15,7 @@
 | Member | GitHub | Lead Stages |
 |---|---|---|
 | Adithyan | [@adithyanb276](https://github.com/adithyanb276) | S1, S3, S5, S6 |
-| Abhita | [@abhitharajsr](https://github.com/abhitharajsr) | S2, S4, S7, S8, S9 |
+| Abhitha | [@abhitharajsr](https://github.com/abhitharajsr) | S2, S4, S7, S8, S9 |
 
 ---
 
